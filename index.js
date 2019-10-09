@@ -14,7 +14,7 @@ module.exports = {
             }
         ],
         "indentation": 4,
-        "no-descending-specificity": null
+        "no-descending-specificity": null,
         "number-leading-zero": "never",
         "property-no-unknown": [
             true,
