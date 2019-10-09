@@ -6,7 +6,9 @@
   "dependencies": {
     "stylelint-config-standard": "^19.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "stylelint": "^11.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ConnectHolland/stylelint-config.git"
