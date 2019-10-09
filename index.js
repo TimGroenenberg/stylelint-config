@@ -22,6 +22,7 @@ module.exports = {
                     "font-icon"
                 ]
             }
-        ]
+        ],
+        "no-descending-specificity": null
     },
 };
