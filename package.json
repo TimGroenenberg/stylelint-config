@@ -1,6 +1,6 @@
 {
   "name": "connectholland-stylelint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Connect Holland stylelint config",
   "main": "index.js",
   "dependencies": {
