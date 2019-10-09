@@ -1,12 +1,14 @@
 {
   "name": "connectholland-stylelint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Connect Holland stylelint config",
   "main": "index.js",
   "dependencies": {
     "stylelint-config-standard": "^19.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "stylelint": "^11.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ConnectHolland/stylelint-config.git"

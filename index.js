@@ -3,8 +3,6 @@
 module.exports = {
     "extends": "stylelint-config-standard",
     "rules": {
-        "indentation": 4,
-        "number-leading-zero": "never",
         "at-rule-no-unknown": [
             true,
             {
@@ -15,6 +13,9 @@ module.exports = {
                 ]
             }
         ],
+        "indentation": 4,
+        "no-descending-specificity": null
+        "number-leading-zero": "never",
         "property-no-unknown": [
             true,
             {
