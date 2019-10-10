@@ -1,7 +1,7 @@
 "use strict";
 
 module.exports = {
-    "extends": "stylelint-config-standard",
+    "extends": "stylelint-config-recommended-scss",
     "rules": {
         "at-rule-empty-line-before": [
             "always", {
@@ -14,16 +14,6 @@ module.exports = {
                 ],
                 "ignoreAtRules": [
                     "import"
-                ]
-            }
-        ],
-        "at-rule-no-unknown": [
-            true,
-            {
-                "ignoreAtRules": [
-                    "include",
-                    "mixin",
-                    "extends"
                 ]
             }
         ],
